@@ -2,6 +2,7 @@
 
 ##
 My answers would not be shown in the public repo, this fork functions as a milestone of my study.
+- ✅ Lab00
 
 ### Overview
 This repository contains all **labs**, and **projects** for the UC Berkeley CS61C course. It is designed to facilitate practice and deepen your understanding of the course material.
