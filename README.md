@@ -1,8 +1,20 @@
 # CS61C Assignments Repository
 
-##
+## My Records
 My answers would not be shown in the public repo, this fork functions as a milestone of my study.
 - ✅ Lab00
+- ✅ Lab01
+   - **Exercise 01**
+![Lab01-Exercise01](./images/Lab1-Exercise1.png)
+   - **Exercise 02**
+![Lab01-Exercise02](./images/Lab1-Exercise2.png)
+   - **Exercise 03**
+![Lab01-Exercise03](./images/Lab1-Exercise3.png)
+   - **Exercise 04** (to use valgrind, I switch to my Ubuntu VM as MacOS uses clang as default, but here gcc would be a better choice)
+![Lab01-Exercise04](./images/Lab1-Exercise4(1).png)
+![Lab01-Exercise04](./images/Lab1-Exercise4(2).png)
+   - **Exercise 05**
+![Lab01-Exercise05](./images/Lab1-Exercise5.png)
 
 ### Overview
 This repository contains all **labs**, and **projects** for the UC Berkeley CS61C course. It is designed to facilitate practice and deepen your understanding of the course material.
